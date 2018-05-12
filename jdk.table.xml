@@ -1,0 +1,191 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 3.6.0 (C:\Users\Administrator\AppData\Local\Programs\Python\Python36-32\python.exe)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.0" />
+      <homePath value="C:\Users\Administrator\AppData\Local\Programs\Python\Python36-32\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/DLLs" />
+            <root type="simple" url="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib" />
+            <root type="simple" url="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32" />
+            <root type="simple" url="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/site-packages/win32" />
+            <root type="simple" url="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/site-packages/win32/lib" />
+            <root type="simple" url="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/site-packages/pythonwin" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2016.1/system/python_stubs/-1235271266" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6.0 (C:\Users\Administrator\AppData\Local\Programs\Python\Python36\python.exe)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.0" />
+      <homePath value="C:\Users\Administrator\AppData\Local\Programs\Python\Python36\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/DLLs" />
+            <root type="simple" url="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib" />
+            <root type="simple" url="file://$USER_HOME$/AppData/Local/Programs/Python/Python36" />
+            <root type="simple" url="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/win32" />
+            <root type="simple" url="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/win32/lib" />
+            <root type="simple" url="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/pythonwin" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2017.2/system/python_stubs/1099968596" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6.0 virtualenv at H:\env\hello01" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.0" />
+      <homePath value="H:\env\hello01\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://H:/env/hello01/Lib" />
+            <root type="simple" url="file://H:/env/hello01/Scripts" />
+            <root type="simple" url="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib" />
+            <root type="simple" url="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/DLLs" />
+            <root type="simple" url="file://H:/env/hello01" />
+            <root type="simple" url="file://H:/env/hello01/Lib/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2017.2/system/python_stubs/547037666" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6.0 virtualenv at H:\workspace\SpiderKeeper\.venv" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.0" />
+      <homePath value="H:\workspace\SpiderKeeper\.venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/DLLs" />
+            <root type="simple" url="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib" />
+            <root type="simple" url="file://$USER_HOME$/AppData/Local/Programs/Python/Python36" />
+            <root type="simple" url="file://H:/workspace/SpiderKeeper/.venv" />
+            <root type="simple" url="file://H:/workspace/SpiderKeeper/.venv/Lib/site-packages" />
+            <root type="simple" url="jar://H:/workspace/SpiderKeeper/.venv/Lib/site-packages/setuptools-28.8.0-py3.6.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2017.2/system/python_stubs/951804306" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="H:/workspace/SpiderKeeper" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6.0 virtualenv at H:\workspace\SpiderKeeper\.venv (1)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.0" />
+      <homePath value="H:\workspace\SpiderKeeper\.venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/DLLs" />
+            <root type="simple" url="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib" />
+            <root type="simple" url="file://$USER_HOME$/AppData/Local/Programs/Python/Python36" />
+            <root type="simple" url="file://H:/workspace/SpiderKeeper/.venv" />
+            <root type="simple" url="file://H:/workspace/SpiderKeeper/.venv/Lib/site-packages" />
+            <root type="simple" url="jar://H:/workspace/SpiderKeeper/.venv/Lib/site-packages/setuptools-28.8.0-py3.6.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2017.2/system/python_stubs/951804306" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="H:/workspace/SpiderKeeper" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6.0 virtualenv at H:\temperature-master\temperature-master\.venv" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.0" />
+      <homePath value="H:\temperature-master\temperature-master\.venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/DLLs" />
+            <root type="simple" url="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib" />
+            <root type="simple" url="file://$USER_HOME$/AppData/Local/Programs/Python/Python36" />
+            <root type="simple" url="file://H:/temperature-master/temperature-master/.venv" />
+            <root type="simple" url="file://H:/temperature-master/temperature-master/.venv/Lib/site-packages" />
+            <root type="simple" url="jar://H:/temperature-master/temperature-master/.venv/Lib/site-packages/setuptools-28.8.0-py3.6.egg!/" />
+            <root type="simple" url="file://H:/temperature-master/temperature-master/.venv/Lib/site-packages/pip-9.0.1-py3.6.egg" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2017.2/system/python_stubs/1944468014" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="H:/temperature-master/temperature-master" />
+    </jdk>
+  </component>
+</application>
